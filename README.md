@@ -1,4 +1,4 @@
-
+![Banner do projeto](Assests/Gemini_Generated_Image_duowzpduowzpduow.png)
 # Análise de Dados de E-commerce: Ingestão, Saneamento e Business Intelligence com SQL 📊
 
 Este projeto consiste em uma análise exploratória de dados (EDA) de ponta a ponta utilizando **MySQL**. O foco foi transformar um conjunto de dados brutos (Olist Dataset) em uma base de dados limpa, otimizada e enriquecida com KPIs estratégicos para suporte à tomada de decisão.
