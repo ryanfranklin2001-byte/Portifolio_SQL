@@ -44,7 +44,7 @@ A partir dos dados limpos, foram desenvolvidas queries para extrair indicadores 
     * **Recorrente:** 2 a 5 pedidos.
     * **Alto Potencial:** Mais de 5 pedidos.
 * **Comportamento de Compra:** Identificação de tendências por dia da semana utilizando a função `DAYOFWEEK`.
-![Banner do projeto](Assests/Gemini_Generated_Image_duowzpduowzpduow.png)
+                        ![Banner do projeto](Assests/Gemini_Generated_Image_g84k1vg84k1vg84k.png)
 ---
 
 ## 📈 Resultados e Impacto
