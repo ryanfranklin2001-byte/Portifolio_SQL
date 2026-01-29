@@ -44,7 +44,7 @@ A partir dos dados limpos, foram desenvolvidas queries para extrair indicadores 
     * **Recorrente:** 2 a 5 pedidos.
     * **Alto Potencial:** Mais de 5 pedidos.
 * **Comportamento de Compra:** Identificação de tendências por dia da semana utilizando a função `DAYOFWEEK`.
-
+![Banner do projeto](Assests/Gemini_Generated_Image_duowzpduowzpduow.png)
 ---
 
 ## 📈 Resultados e Impacto
@@ -52,6 +52,7 @@ A partir dos dados limpos, foram desenvolvidas queries para extrair indicadores 
 * **Identificação de Sazonalidade:** Descoberta dos dias e meses com maior pico de demanda.
 * **Logística:** Mapeamento do tempo médio de entrega para identificação de gargalos operacionais.
 * **Base para Dashboards:** Os scripts preparam a base para conexão direta com ferramentas como Power BI ou Tableau.
+
 
 ---
 
